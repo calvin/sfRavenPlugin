@@ -1,0 +1,6 @@
+all:
+  sfRaven:
+    enabled: true
+    dsn: false
+    report_404: true
+    report_php_errors: true

@@ -1,0 +1,3 @@
+[submodule "lib/vendor/raven"]
+	path = lib/vendor/raven
+	url = git://github.com/getsentry/raven-php.git
