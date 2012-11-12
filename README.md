@@ -3,7 +3,7 @@ Raven plugin for Symfony 1.x
 
 Install plugin (via Github):
 
-    github clone git://github.com/calvin/sfRavenPlugin.git
+    $ git clone git://github.com/calvin/sfRavenPlugin.git plugins/sfRaven
 
 Please activate sfRaven plugin by adding the following line in `config/ProjectConfiguration.class.php`:
 
